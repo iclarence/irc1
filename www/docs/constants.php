@@ -3,7 +3,8 @@
 define ("SITENAME", "iClarence.Com");
 define ("SITEDESCRIPTION", "content management system");
 
-define ("DBSTRING", "localhost:/tmp/mysql5.sock,mgr,b3njam1n,mybestho_mgr");
+// define ("DBSTRING", "localhost:/tmp/mysql5.sock,mgr,b3njam1n,mybestho_mgr");
+define ("DBSTRING", "localhost,irc1,b3njam1n,irc1");
 
 define ("ADMINEMAIL", "admin@iclarence.com");
 

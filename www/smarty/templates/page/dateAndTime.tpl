@@ -1,0 +1,1 @@
+<p>{$todaysdate} {$timenow}</p>

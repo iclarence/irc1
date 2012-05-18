@@ -1,0 +1,1 @@
+<a href="{$home}/page/{$languageIdentifier}/advsearch/">Advanced search</a>
